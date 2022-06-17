@@ -132,7 +132,7 @@ topbar.innerHTML = `<div class="row gx-0 d-none d-lg-flex">
 <div class="col-lg-7 px-5 text-start">
     <div class="h-100 d-inline-flex align-items-center py-3 me-4">
         <small class="fa fa-map-marker-alt text-primary me-2"></small>
-        <small> (Dorobanţi - Perla) Str. Soseaua Stefan cel Mare Nr. 1-3
+        <small> (Dorobanţi - Perla) Soseaua Stefan cel Mare Nr. 1-3
             Bucuresti Sector 1 </small>
     </div>
     <div class="h-100 d-inline-flex align-items-center py-3">
