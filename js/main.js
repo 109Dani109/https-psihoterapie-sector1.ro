@@ -139,7 +139,7 @@ topbar.innerHTML = `<div class="row gx-0 d-none d-lg-flex">
         <small class="far fa-clock text-primary me-2"></small>
         <small>
             Luni-Vineri
-            9:00 - 17:00</small>
+            9:00 - 21:00</small>
     </div>
 </div>
 <div class="col-lg-5 px-5 text-end">
