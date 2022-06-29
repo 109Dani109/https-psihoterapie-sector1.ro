@@ -138,8 +138,11 @@ topbar.innerHTML = `<div class="row gx-0 d-none d-lg-flex">
     <div class="h-100 d-inline-flex align-items-center py-3">
         <small class="far fa-clock text-primary me-2"></small>
         <small>
-            Luni-Vineri
-            9:00 - 21:00</small>
+                        Luni-Vineri
+                        9:00 - 21:00
+                       | Sâmbătă
+                        9:00 - 16:00
+                    </small>
     </div>
 </div>
 <div class="col-lg-5 px-5 text-end">
