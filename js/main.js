@@ -165,7 +165,7 @@ navBar.innerHTML = `       <a href="index.html" class="navbar-brand d-flex align
     <a href="index.html" class="nav-item nav-link active">Home</a>
     <a href="/#despre" class="nav-item nav-link">Despre</a>
     <a href="/#servicii" class="nav-item nav-link">Servicii</a>
-   
+    <a href="/#footer" class="nav-item nav-link">Program</a>
     <a href="contact.html" class="nav-item nav-link">Contact</a>
 </div>
 <a href="tel:0737129122" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Programari<i class="fa fa-arrow-right ms-3"></i></a>
@@ -177,9 +177,10 @@ footer.innerHTML = `<div class="dateContact" >
 <br><br>
 <p> <i class="fas fa-phone-alt"></i> 0737 129 122 <br> <span style="padding-left: 20px;"> </span></p>
 <br><br>
-<a  href="mailto:consultatie@psyhology.ro" class="emailBox">
-<i class="far fa-envelope" > </i> consultatie@psyhology.ro
-</a>
+<h1 style="color:white;"> Program: </h1> <br>
+ 
+<p>  Luni-Vineri : 9:00 - 21:00</p> 
+<p style="padding-left: 15px;"> Sâmbătă : 9:00 - 16:00</p>
 <br><br>
 </div>
 
