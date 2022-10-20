@@ -162,11 +162,11 @@ navBar.innerHTML = `       <a href="index.html" class="navbar-brand d-flex align
 </button>
 <div style="background-color: white;" class="collapse navbar-collapse" id="navbarCollapse">
 <div class="navbar-nav ms-auto p-4 p-lg-0">
-    <a href="index.html" class="nav-item nav-link active">Home</a>
+    <a href="/" class="nav-item nav-link active">Acasa</a>
     <a href="/#despre" class="nav-item nav-link">Despre</a>
     <a href="/#servicii" class="nav-item nav-link">Servicii</a>
     <a href="/#footer" class="nav-item nav-link">Program</a>
-    <a href="contact.html" class="nav-item nav-link">Contact</a>
+    <a href="/#footer" class="nav-item nav-link">Contact</a>
 </div>
 <a href="tel:0737129122" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Programari<i class="fa fa-arrow-right ms-3"></i></a>
 </div>`;
